@@ -1,0 +1,1 @@
+UPDATE public.questions SET question_text = 'Vet du var närmaste första hjälpen-utrustning finns?' WHERE question_text ILIKE '%hjärtstartare%';

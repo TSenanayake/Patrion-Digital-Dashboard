@@ -1,0 +1,10 @@
+project_id = "ogndmkzprqegnjslyqly"
+
+[functions.extract-document-text]
+verify_jwt = true
+
+[functions.translate-document]
+verify_jwt = true
+
+[functions.retention-purge]
+verify_jwt = true
